@@ -1,5 +1,9 @@
+<script setup>
+    import profileImage from '../assets/hysna.png'
+</script>
+
 <template>
-    <img src="https://images.unsplash.com/photo-1657809233285-1f42bd176039?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmllJTIwcGljdHVyZXxlbnwwfHwwfHx8MA%3D%3D" width="150">
+    <img :src="profileImage" alt="Hysna Profile" width="150">
     <h1>Damar Ramadiansyah</h1>
     <p>Saya ada orang yang sedang belajar vue untuk frontend developer</p>
 </template>
