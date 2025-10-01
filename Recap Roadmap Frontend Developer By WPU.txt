@@ -1,0 +1,72 @@
+Streight the Foundation
+- HTML & Semantik HTML
+- CSS Layouting Modern (Grid & Flexbox)
+- Responsive Web Design
+- Javascript (DOM Manipulation, Events, Asycronus Javascript)
+- Git & Github
+
+- Tailwind CSS
+- Test Recreat Web (Netflix Dll)
+- Coba Upload ke Github Pages
+
+- Package Manager (npm, yarn, pnpm)
+npm = package maanger standar yang otomatis terpasang jika install Node.js
+yarn = alternatif klasik yang sempat populer karena lebih cepat
+pnpm = package manager yang baru dan cenderung lebih irit space
+
+- build tools
+Vite
+webpack
+bund.io
+
+- Framework
+React untuk pilihan paling aman untuk pasar sekarang (high demand)
+Vue untuk pemulai yang alur belajarnya lebih landai
+Svelte untuk mengenal framework yang sedang naik daun/trend
+
+Alternatif pengguna PHP
+Laravel x livewire membuat ui dinamis tanpa perlu menulis banyak javascript
+inertia>> jembatan untuk penggunaan laravel sebagai backend dan bisa memilih frontend sesuai keinginan (React, Vue, Svelte)
+
+3 Konsep inti Framework
+- Punya mindset atau pola pikir komponen & atomic design
+- State Management (React = Zustain/Redux, Vue = Pinia)
+- Routing
+
+- Mulai membangun Aplikasi yang hidup (SPA Single Page Aplication)
+- Buat Aplikasi yang Aman, Handal & Tidak mudah error (Typescript)
+Typescipt (Javascript yang lebih Strict)
+
+Next.js untuk pengelolaan Router dll pada React.js dan nantinya akan lebih dalam mempelajari SSR (Server Side Rendering)
+Nux untuk di Vue
+Sveltekit untuk di Svelte
+
+Project yang bisa dicoba
+- Aplikasi Visualisasi Data (Dashboard Analytic Data Penjualan)
+- Aplikasi Project Management
+- AI Powered App (Generator Resep Makanan, Assistant Respon)
+
+- Deployment
+VPS (Virtual Private Server)
+
+Lain Lain
+- Perdalam dunia testing (unit testing s/d end to end testing, user testing, usabilty testing)
+- web performance (web instant dan optimasi tingkat lanjut)
+
+Jadilah seorang yang problem solver dan peduli serta empati dengan produk dan juga penggunanya
+Manfaatkan AI secara cerdas sebagai senjata rahasia (gunakan sebagai asisten pribadi, mempercepat proses belajar, diskusi tentang fitur)
+cobalah build in public
+
+STRUKTUR FOLDER VUE
+
+my-link-bio/
+├── node_modules/       # Gudang "bahan baku"
+├── public/             # Tempat file statis
+├── src/                # ❤️ Folder Hati Proyek Anda
+│   ├── assets/         # Untuk gambar, file CSS global
+│   ├── components/     # Kotak LEGO untuk komponen
+│   └── App.vue         # Komponen Utama/Induk
+│   └── main.js         # Titik Awal Aplikasi (Kunci Kontak)
+├── .gitignore          # Daftar file yang diabaikan Git
+├── index.html          # Kanvas kosong untuk aplikasi
+└── package.json        # KTP & Resep Proyek
