@@ -5,7 +5,7 @@
 <template>
     <img :src="profileImage" alt="Hysna Profile" width="150">
     <h1>Damar Ramadiansyah</h1>
-    <p>Saya ada orang yang sedang belajar vue untuk frontend developer</p>
+    <p>Saya ada orang yang sedang belajar vue untuk frontend dev</p>
 </template>
 
 <style scoped>
