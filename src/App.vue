@@ -7,8 +7,8 @@
   <main>
     <Profile />
     <div class="links-container">
-      <LinkButton text="Github" url="https://github.com/damarrsyh" />
       <LinkButton text="Linkedin" url="https://www.linkedin.com/in/damar-ramadiansyah-8224b02aa/" />
+      <LinkButton text="Github" url="https://github.com/damarrsyh" />
       <LinkButton text="Portfolio" url="" />
     </div>
   </main>
